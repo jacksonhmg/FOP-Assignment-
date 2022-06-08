@@ -1,0 +1,17 @@
+## Synopsis
+Assignment 1 Fundamentals of Programming COMP1005/5005
+Simulates varying cats in an environment. Each cat has different attributes, behaviour and needs. 
+Using object oriented programming
+
+## Contents
+README - readme files for Assignment
+cats.py - class establishment file creating GoodCat and EvilCat classes
+catsSimtest.py - everything else necessary for running the simulation
+"Report + Cover Sheet".pdf - report and cover sheet necessary for final hand in of assignment
+
+## Dependencies
+Both cats.py and catsSimtest.py are necessary for the simulation to work
+
+
+# Version Information
+11/10/2021 - Final Version
